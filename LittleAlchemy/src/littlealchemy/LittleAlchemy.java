@@ -15,7 +15,8 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author Famiglia
+ * @author Alberto Dionigi
+ * @author Francesco Tosoni
  */
 public class LittleAlchemy extends Application {
     
