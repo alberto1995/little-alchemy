@@ -1,0 +1,4687 @@
+[
+  {
+    "result": "water",
+    "first": "fire",
+    "second": "ice"
+  },
+  {
+    "result": "acid rain",
+    "first": "rain",
+    "second": "smoke"
+  },
+  {
+    "result": "acid rain",
+    "first": "rain",
+    "second": "smog"
+  },
+  {
+    "result": "airplane",
+    "first": "bird",
+    "second": "metal"
+  },
+  {
+    "result": "airplane",
+    "first": "bird",
+    "second": "steel"
+  },
+  {
+    "result": "alarm clock",
+    "first": "clock",
+    "second": "sound"
+  },
+  {
+    "result": "alcohol",
+    "first": "fruit",
+    "second": "time"
+  },
+  {
+    "result": "alcohol",
+    "first": "juice",
+    "second": "time"
+  },
+  {
+    "result": "algae",
+    "first": "water",
+    "second": "plant"
+  },
+  {
+    "result": "algae",
+    "first": "ocean",
+    "second": "plant"
+  },
+  {
+    "result": "algae",
+    "first": "sea",
+    "second": "plant"
+  },
+  {
+    "result": "alien",
+    "first": "life",
+    "second": "space"
+  },
+  {
+    "result": "allergy",
+    "first": "human",
+    "second": "dust"
+  },
+  {
+    "result": "alligator",
+    "first": "lizard",
+    "second": "swamp"
+  },
+  {
+    "result": "alligator",
+    "first": "lizard",
+    "second": "river"
+  },
+  {
+    "result": "alpaca",
+    "first": "mountain",
+    "second": "sheep"
+  },
+  {
+    "result": "ambulance",
+    "first": "hospital",
+    "second": "car"
+  },
+  {
+    "result": "ambulance",
+    "first": "doctor",
+    "second": "car"
+  },
+  {
+    "result": "angel",
+    "first": "human",
+    "second": "bird"
+  },
+  {
+    "result": "angler",
+    "first": "human",
+    "second": "fishing rod"
+  },
+  {
+    "result": "ant",
+    "first": "grass",
+    "second": "wild animal"
+  },
+  {
+    "result": "ant",
+    "first": "wild animal",
+    "second": "sugar"
+  },
+  {
+    "result": "antarctica",
+    "first": "snow",
+    "second": "desert"
+  },
+  {
+    "result": "antarctica",
+    "first": "ice",
+    "second": "desert"
+  },
+  {
+    "result": "aquarium",
+    "first": "water",
+    "second": "glass"
+  },
+  {
+    "result": "aquarium",
+    "first": "glass",
+    "second": "fish"
+  },
+  {
+    "result": "archipelago",
+    "first": "isle",
+    "second": "isle"
+  },
+  {
+    "result": "armadillo",
+    "first": "wild animal",
+    "second": "armor"
+  },
+  {
+    "result": "armor",
+    "first": "tool",
+    "second": "metal"
+  },
+  {
+    "result": "armor",
+    "first": "tool",
+    "second": "steel"
+  },
+  {
+    "result": "ash",
+    "first": "volcano",
+    "second": "energy"
+  },
+  {
+    "result": "astronaut",
+    "first": "human",
+    "second": "moon"
+  },
+  {
+    "result": "astronaut",
+    "first": "rocket",
+    "second": "human"
+  },
+  {
+    "result": "astronaut",
+    "first": "human",
+    "second": "space station"
+  },
+  {
+    "result": "astronaut",
+    "first": "human",
+    "second": "space"
+  },
+  {
+    "result": "atmosphere",
+    "first": "air",
+    "second": "pressure"
+  },
+  {
+    "result": "atmosphere",
+    "first": "sky",
+    "second": "pressure"
+  },
+  {
+    "result": "atomic bomb",
+    "first": "energy",
+    "second": "explosion"
+  },
+  {
+    "result": "aurora",
+    "first": "sun",
+    "second": "antarctica"
+  },
+  {
+    "result": "aurora",
+    "first": "sky",
+    "second": "antarctica"
+  },
+  {
+    "result": "aurora",
+    "first": "antarctica",
+    "second": "atmosphere"
+  },
+  {
+    "result": "avalanche",
+    "first": "energy",
+    "second": "snow"
+  },
+  {
+    "result": "axe",
+    "first": "blade",
+    "second": "wood"
+  },
+  {
+    "result": "bacon",
+    "first": "pig",
+    "second": "fire"
+  },
+  {
+    "result": "bacteria",
+    "first": "swamp",
+    "second": "life"
+  },
+  {
+    "result": "baker",
+    "first": "human",
+    "second": "bread"
+  },
+  {
+    "result": "baker",
+    "first": "human",
+    "second": "flour"
+  },
+  {
+    "result": "baker",
+    "first": "human",
+    "second": "dough"
+  },
+  {
+    "result": "bakery",
+    "first": "house",
+    "second": "bread"
+  },
+  {
+    "result": "bakery",
+    "first": "house",
+    "second": "baker"
+  },
+  {
+    "result": "banana",
+    "first": "fruit",
+    "second": "monkey"
+  },
+  {
+    "result": "banana bread",
+    "first": "bread",
+    "second": "banana"
+  },
+  {
+    "result": "bandage",
+    "first": "blood",
+    "second": "fabric"
+  },
+  {
+    "result": "bank",
+    "first": "house",
+    "second": "money"
+  },
+  {
+    "result": "bank",
+    "first": "house",
+    "second": "gold"
+  },
+  {
+    "result": "barn",
+    "first": "livestock",
+    "second": "house"
+  },
+  {
+    "result": "barn",
+    "first": "cow",
+    "second": "house"
+  },
+  {
+    "result": "barn",
+    "first": "house",
+    "second": "hay"
+  },
+  {
+    "result": "bat",
+    "first": "mouse",
+    "second": "bird"
+  },
+  {
+    "result": "bat",
+    "first": "mouse",
+    "second": "sky"
+  },
+  {
+    "result": "batman",
+    "first": "bat",
+    "second": "human"
+  },
+  {
+    "result": "batter",
+    "first": "flour",
+    "second": "milk"
+  },
+  {
+    "result": "bayonet",
+    "first": "gun",
+    "second": "blade"
+  },
+  {
+    "result": "bayonet",
+    "first": "gun",
+    "second": "sword"
+  },
+  {
+    "result": "bbq",
+    "first": "campfire",
+    "second": "meat"
+  },
+  {
+    "result": "bbq",
+    "first": "campfire",
+    "second": "garden"
+  },
+  {
+    "result": "beach",
+    "first": "sea",
+    "second": "sand"
+  },
+  {
+    "result": "beach",
+    "first": "ocean",
+    "second": "sand"
+  },
+  {
+    "result": "beach",
+    "first": "water",
+    "second": "sand"
+  },
+  {
+    "result": "beaver",
+    "first": "wild animal",
+    "second": "wood"
+  },
+  {
+    "result": "beaver",
+    "first": "wild animal",
+    "second": "dam"
+  },
+  {
+    "result": "bee",
+    "first": "flower",
+    "second": "wild animal"
+  },
+  {
+    "result": "beehive",
+    "first": "bee",
+    "second": "house"
+  },
+  {
+    "result": "beehive",
+    "first": "bee",
+    "second": "tree"
+  },
+  {
+    "result": "beer",
+    "first": "alcohol",
+    "second": "wheat"
+  },
+  {
+    "result": "bicycle",
+    "first": "wheel",
+    "second": "wheel"
+  },
+  {
+    "result": "bird",
+    "first": "life",
+    "second": "sky"
+  },
+  {
+    "result": "bird",
+    "first": "egg",
+    "second": "air"
+  },
+  {
+    "result": "bird",
+    "first": "egg",
+    "second": "sky"
+  },
+  {
+    "result": "bird",
+    "first": "air",
+    "second": "life"
+  },
+  {
+    "result": "birdhouse",
+    "first": "bird",
+    "second": "house"
+  },
+  {
+    "result": "black hole",
+    "first": "star",
+    "second": "pressure"
+  },
+  {
+    "result": "blade",
+    "first": "metal",
+    "second": "stone"
+  },
+  {
+    "result": "blender",
+    "first": "glass",
+    "second": "blade"
+  },
+  {
+    "result": "blender",
+    "first": "blade",
+    "second": "electricity"
+  },
+  {
+    "result": "blizzard",
+    "first": "snow",
+    "second": "wind"
+  },
+  {
+    "result": "blizzard",
+    "first": "snow",
+    "second": "storm"
+  },
+  {
+    "result": "blizzard",
+    "first": "snow",
+    "second": "snow"
+  },
+  {
+    "result": "blood",
+    "first": "human",
+    "second": "blade"
+  },
+  {
+    "result": "boat",
+    "first": "water",
+    "second": "wood"
+  },
+  {
+    "result": "boiler",
+    "first": "steam",
+    "second": "metal"
+  },
+  {
+    "result": "bone",
+    "first": "corpse",
+    "second": "time"
+  },
+  {
+    "result": "bonsai tree",
+    "first": "tree",
+    "second": "pottery"
+  },
+  {
+    "result": "bonsai tree",
+    "first": "tree",
+    "second": "scissors"
+  },
+  {
+    "result": "book",
+    "first": "paper",
+    "second": "wood"
+  },
+  {
+    "result": "book",
+    "first": "paper",
+    "second": "story"
+  },
+  {
+    "result": "bread",
+    "first": "dough",
+    "second": "fire"
+  },
+  {
+    "result": "brick",
+    "first": "clay",
+    "second": "fire"
+  },
+  {
+    "result": "brick",
+    "first": "mud",
+    "second": "fire"
+  },
+  {
+    "result": "brick",
+    "first": "mud",
+    "second": "sun"
+  },
+  {
+    "result": "brick",
+    "first": "clay",
+    "second": "sun"
+  },
+  {
+    "result": "bridge",
+    "first": "river",
+    "second": "wood"
+  },
+  {
+    "result": "bridge",
+    "first": "river",
+    "second": "metal"
+  },
+  {
+    "result": "bridge",
+    "first": "river",
+    "second": "steel"
+  },
+  {
+    "result": "broom",
+    "first": "wood",
+    "second": "hay"
+  },
+  {
+    "result": "bullet",
+    "first": "gunpowder",
+    "second": "metal"
+  },
+  {
+    "result": "bulletproof vest",
+    "first": "bullet",
+    "second": "armor"
+  },
+  {
+    "result": "bus",
+    "first": "car",
+    "second": "car"
+  },
+  {
+    "result": "butcher",
+    "first": "human",
+    "second": "meat"
+  },
+  {
+    "result": "butter",
+    "first": "milk",
+    "second": "pressure"
+  },
+  {
+    "result": "butter",
+    "first": "energy",
+    "second": "milk"
+  },
+  {
+    "result": "butterfly",
+    "first": "flower",
+    "second": "wild animal"
+  },
+  {
+    "result": "cactus",
+    "first": "sand",
+    "second": "plant"
+  },
+  {
+    "result": "cactus",
+    "first": "desert",
+    "second": "plant"
+  },
+  {
+    "result": "cake",
+    "first": "dough",
+    "second": "candle"
+  },
+  {
+    "result": "camel",
+    "first": "desert",
+    "second": "horse"
+  },
+  {
+    "result": "camel",
+    "first": "desert",
+    "second": "wild animal"
+  },
+  {
+    "result": "camel",
+    "first": "livestock",
+    "second": "desert"
+  },
+  {
+    "result": "campfire",
+    "first": "fire",
+    "second": "wood"
+  },
+  {
+    "result": "candle",
+    "first": "wax",
+    "second": "thread"
+  },
+  {
+    "result": "candle",
+    "first": "wax",
+    "second": "fire"
+  },
+  {
+    "result": "candy cane",
+    "first": "sugar",
+    "second": "christmas tree"
+  },
+  {
+    "result": "cannon",
+    "first": "gunpowder",
+    "second": "pirate ship"
+  },
+  {
+    "result": "cannon",
+    "first": "gunpowder",
+    "second": "castle"
+  },
+  {
+    "result": "car",
+    "first": "wheel",
+    "second": "metal"
+  },
+  {
+    "result": "caramel",
+    "first": "sugar",
+    "second": "fire"
+  },
+  {
+    "result": "carbon dioxide",
+    "first": "human",
+    "second": "oxygen"
+  },
+  {
+    "result": "carbon dioxide",
+    "first": "plant",
+    "second": "night"
+  },
+  {
+    "result": "carbon dioxide",
+    "first": "tree",
+    "second": "night"
+  },
+  {
+    "result": "carrot",
+    "first": "snowman",
+    "second": "vegetable"
+  },
+  {
+    "result": "carrot",
+    "first": "sun",
+    "second": "snowman"
+  },
+  {
+    "result": "cart",
+    "first": "wheel",
+    "second": "wood"
+  },
+  {
+    "result": "cashmere",
+    "first": "tool",
+    "second": "mountain goat"
+  },
+  {
+    "result": "cashmere",
+    "first": "thread",
+    "second": "mountain goat"
+  },
+  {
+    "result": "cashmere",
+    "first": "fabric",
+    "second": "mountain goat"
+  },
+  {
+    "result": "cashmere",
+    "first": "scissors",
+    "second": "mountain goat"
+  },
+  {
+    "result": "cashmere",
+    "first": "wool",
+    "second": "mountain goat"
+  },
+  {
+    "result": "castle",
+    "first": "house",
+    "second": "knight"
+  },
+  {
+    "result": "cat",
+    "first": "wild animal",
+    "second": "milk"
+  },
+  {
+    "result": "catnip",
+    "first": "cat",
+    "second": "plant"
+  },
+  {
+    "result": "cauldron",
+    "first": "metal",
+    "second": "witch"
+  },
+  {
+    "result": "cauldron",
+    "first": "steel",
+    "second": "witch"
+  },
+  {
+    "result": "cauldron",
+    "first": "fireplace",
+    "second": "witch"
+  },
+  {
+    "result": "cauldron",
+    "first": "campfire",
+    "second": "witch"
+  },
+  {
+    "result": "caviar",
+    "first": "hard roe",
+    "second": "human"
+  },
+  {
+    "result": "centaur",
+    "first": "horse",
+    "second": "human"
+  },
+  {
+    "result": "cereal",
+    "first": "wheat",
+    "second": "milk"
+  },
+  {
+    "result": "chain",
+    "first": "metal",
+    "second": "rope"
+  },
+  {
+    "result": "chain",
+    "first": "steel",
+    "second": "rope"
+  },
+  {
+    "result": "chainsaw",
+    "first": "axe",
+    "second": "electricity"
+  },
+  {
+    "result": "chameleon",
+    "first": "lizard",
+    "second": "rainbow"
+  },
+  {
+    "result": "charcoal",
+    "first": "tree",
+    "second": "fire"
+  },
+  {
+    "result": "charcoal",
+    "first": "wood",
+    "second": "fire"
+  },
+  {
+    "result": "cheese",
+    "first": "time",
+    "second": "milk"
+  },
+  {
+    "result": "cheeseburger",
+    "first": "cheese",
+    "second": "hamburger"
+  },
+  {
+    "result": "chicken",
+    "first": "livestock",
+    "second": "bird"
+  },
+  {
+    "result": "chicken",
+    "first": "egg",
+    "second": "livestock"
+  },
+  {
+    "result": "chicken",
+    "first": "bird",
+    "second": "farmer"
+  },
+  {
+    "result": "chicken soup",
+    "first": "water",
+    "second": "chicken"
+  },
+  {
+    "result": "chicken wing",
+    "first": "chicken",
+    "second": "bone"
+  },
+  {
+    "result": "chimney",
+    "first": "house",
+    "second": "fireplace"
+  },
+  {
+    "result": "chimney",
+    "first": "smoke",
+    "second": "brick"
+  },
+  {
+    "result": "chimney",
+    "first": "fireplace",
+    "second": "brick"
+  },
+  {
+    "result": "christmas stocking",
+    "first": "wool",
+    "second": "fireplace"
+  },
+  {
+    "result": "christmas tree",
+    "first": "light bulb",
+    "second": "tree"
+  },
+  {
+    "result": "christmas tree",
+    "first": "tree",
+    "second": "star"
+  },
+  {
+    "result": "cigarette",
+    "first": "tobacco",
+    "second": "paper"
+  },
+  {
+    "result": "city",
+    "first": "village",
+    "second": "village"
+  },
+  {
+    "result": "city",
+    "first": "skyscraper",
+    "second": "skyscraper"
+  },
+  {
+    "result": "clay",
+    "first": "sand",
+    "second": "mud"
+  },
+  {
+    "result": "clock",
+    "first": "time",
+    "second": "electricity"
+  },
+  {
+    "result": "clock",
+    "first": "time",
+    "second": "wheel"
+  },
+  {
+    "result": "clock",
+    "first": "time",
+    "second": "tool"
+  },
+  {
+    "result": "cloud",
+    "first": "air",
+    "second": "steam"
+  },
+  {
+    "result": "coal",
+    "first": "pressure",
+    "second": "plant"
+  },
+  {
+    "result": "coal",
+    "first": "sun",
+    "second": "snowman"
+  },
+  {
+    "result": "coconut",
+    "first": "palm",
+    "second": "fruit"
+  },
+  {
+    "result": "coconut milk",
+    "first": "coconut",
+    "second": "tool"
+  },
+  {
+    "result": "coconut milk",
+    "first": "milk",
+    "second": "coconut"
+  },
+  {
+    "result": "coffin",
+    "first": "wood",
+    "second": "corpse"
+  },
+  {
+    "result": "cold",
+    "first": "human",
+    "second": "rain"
+  },
+  {
+    "result": "computer",
+    "first": "tool",
+    "second": "nerd"
+  },
+  {
+    "result": "computer",
+    "first": "electricity",
+    "second": "nerd"
+  },
+  {
+    "result": "computer",
+    "first": "wire",
+    "second": "nerd"
+  },
+  {
+    "result": "computer mouse",
+    "first": "mouse",
+    "second": "computer"
+  },
+  {
+    "result": "confetti",
+    "first": "paper",
+    "second": "blade"
+  },
+  {
+    "result": "confetti",
+    "first": "paper",
+    "second": "scissors"
+  },
+  {
+    "result": "constellation",
+    "first": "star",
+    "second": "star"
+  },
+  {
+    "result": "cookie",
+    "first": "dough",
+    "second": "sugar"
+  },
+  {
+    "result": "corpse",
+    "first": "human",
+    "second": "gun"
+  },
+  {
+    "result": "corpse",
+    "first": "human",
+    "second": "grim reaper"
+  },
+  {
+    "result": "cotton",
+    "first": "plant",
+    "second": "cloud"
+  },
+  {
+    "result": "cow",
+    "first": "grass",
+    "second": "livestock"
+  },
+  {
+    "result": "crayon",
+    "first": "rainbow",
+    "second": "pencil"
+  },
+  {
+    "result": "crayon",
+    "first": "rainbow",
+    "second": "wax"
+  },
+  {
+    "result": "crow",
+    "first": "bird",
+    "second": "scarecrow"
+  },
+  {
+    "result": "crow",
+    "first": "bird",
+    "second": "field"
+  },
+  {
+    "result": "crystal ball",
+    "first": "witch",
+    "second": "glass"
+  },
+  {
+    "result": "crystal ball",
+    "first": "wizard",
+    "second": "glass"
+  },
+  {
+    "result": "cuckoo",
+    "first": "clock",
+    "second": "bird"
+  },
+  {
+    "result": "cyborg",
+    "first": "human",
+    "second": "robot"
+  },
+  {
+    "result": "cyclist",
+    "first": "bicycle",
+    "second": "human"
+  },
+  {
+    "result": "dam",
+    "first": "beaver",
+    "second": "river"
+  },
+  {
+    "result": "dam",
+    "first": "beaver",
+    "second": "tree"
+  },
+  {
+    "result": "dam",
+    "first": "beaver",
+    "second": "wood"
+  },
+  {
+    "result": "dam",
+    "first": "wall",
+    "second": "river"
+  },
+  {
+    "result": "darth vader",
+    "first": "jedi",
+    "second": "fire"
+  },
+  {
+    "result": "darth vader",
+    "first": "jedi",
+    "second": "lava"
+  },
+  {
+    "result": "day",
+    "first": "sun",
+    "second": "time"
+  },
+  {
+    "result": "day",
+    "first": "night",
+    "second": "sun"
+  },
+  {
+    "result": "day",
+    "first": "time",
+    "second": "night"
+  },
+  {
+    "result": "day",
+    "first": "sky",
+    "second": "sun"
+  },
+  {
+    "result": "desert",
+    "first": "sand",
+    "second": "sand"
+  },
+  {
+    "result": "desert",
+    "first": "sand",
+    "second": "cactus"
+  },
+  {
+    "result": "dew",
+    "first": "fog",
+    "second": "grass"
+  },
+  {
+    "result": "dew",
+    "first": "water",
+    "second": "grass"
+  },
+  {
+    "result": "diamond",
+    "first": "pressure",
+    "second": "coal"
+  },
+  {
+    "result": "diamond",
+    "first": "coal",
+    "second": "time"
+  },
+  {
+    "result": "dinosaur",
+    "first": "lizard",
+    "second": "time"
+  },
+  {
+    "result": "doctor",
+    "first": "human",
+    "second": "hospital"
+  },
+  {
+    "result": "dog",
+    "first": "wild animal",
+    "second": "human"
+  },
+  {
+    "result": "dog",
+    "first": "wolf",
+    "second": "bone"
+  },
+  {
+    "result": "doghouse",
+    "first": "dog",
+    "second": "house"
+  },
+  {
+    "result": "don quixote",
+    "first": "windmill",
+    "second": "knight"
+  },
+  {
+    "result": "donut",
+    "first": "dough",
+    "second": "oil"
+  },
+  {
+    "result": "double rainbow!",
+    "first": "rainbow",
+    "second": "rainbow"
+  },
+  {
+    "result": "dough",
+    "first": "water",
+    "second": "flour"
+  },
+  {
+    "result": "dragon",
+    "first": "lizard",
+    "second": "fire"
+  },
+  {
+    "result": "drone",
+    "first": "airplane",
+    "second": "robot"
+  },
+  {
+    "result": "drum",
+    "first": "wood",
+    "second": "leather"
+  },
+  {
+    "result": "drunk",
+    "first": "human",
+    "second": "alcohol"
+  },
+  {
+    "result": "drunk",
+    "first": "beer",
+    "second": "human"
+  },
+  {
+    "result": "drunk",
+    "first": "human",
+    "second": "wine"
+  },
+  {
+    "result": "dry ice",
+    "first": "carbon dioxide",
+    "second": "cold"
+  },
+  {
+    "result": "dry ice",
+    "first": "ice",
+    "second": "carbon dioxide"
+  },
+  {
+    "result": "duck",
+    "first": "water",
+    "second": "bird"
+  },
+  {
+    "result": "duck",
+    "first": "bird",
+    "second": "pond"
+  },
+  {
+    "result": "duck",
+    "first": "bird",
+    "second": "lake"
+  },
+  {
+    "result": "duck",
+    "first": "time",
+    "second": "duckling"
+  },
+  {
+    "result": "duckling",
+    "first": "egg",
+    "second": "duck"
+  },
+  {
+    "result": "dune",
+    "first": "sand",
+    "second": "wind"
+  },
+  {
+    "result": "dune",
+    "first": "desert",
+    "second": "wind"
+  },
+  {
+    "result": "dune",
+    "first": "beach",
+    "second": "wind"
+  },
+  {
+    "result": "dust",
+    "first": "earth",
+    "second": "air"
+  },
+  {
+    "result": "dust",
+    "first": "sun",
+    "second": "vampire"
+  },
+  {
+    "result": "dust",
+    "first": "day",
+    "second": "vampire"
+  },
+  {
+    "result": "dynamite",
+    "first": "gunpowder",
+    "second": "wire"
+  },
+  {
+    "result": "eagle",
+    "first": "mountain",
+    "second": "bird"
+  },
+  {
+    "result": "earthquake",
+    "first": "earth",
+    "second": "energy"
+  },
+  {
+    "result": "earthquake",
+    "first": "earth",
+    "second": "wave"
+  },
+  {
+    "result": "eclipse",
+    "first": "sun",
+    "second": "moon"
+  },
+  {
+    "result": "egg",
+    "first": "life",
+    "second": "stone"
+  },
+  {
+    "result": "egg",
+    "first": "bird",
+    "second": "bird"
+  },
+  {
+    "result": "egg",
+    "first": "turtle",
+    "second": "turtle"
+  },
+  {
+    "result": "egg",
+    "first": "lizard",
+    "second": "lizard"
+  },
+  {
+    "result": "egg timer",
+    "first": "egg",
+    "second": "clock"
+  },
+  {
+    "result": "egg timer",
+    "first": "egg",
+    "second": "watch"
+  },
+  {
+    "result": "electric car",
+    "first": "car",
+    "second": "electricity"
+  },
+  {
+    "result": "electric eel",
+    "first": "fish",
+    "second": "electricity"
+  },
+  {
+    "result": "electrician",
+    "first": "human",
+    "second": "electricity"
+  },
+  {
+    "result": "electrician",
+    "first": "human",
+    "second": "wire"
+  },
+  {
+    "result": "electricity",
+    "first": "metal",
+    "second": "energy"
+  },
+  {
+    "result": "electricity",
+    "first": "solar cell",
+    "second": "sun"
+  },
+  {
+    "result": "electricity",
+    "first": "wind turbine",
+    "second": "wind"
+  },
+  {
+    "result": "electricity",
+    "first": "light",
+    "second": "solar cell"
+  },
+  {
+    "result": "email",
+    "first": "letter",
+    "second": "computer"
+  },
+  {
+    "result": "email",
+    "first": "letter",
+    "second": "internet"
+  },
+  {
+    "result": "energy",
+    "first": "air",
+    "second": "fire"
+  },
+  {
+    "result": "energy",
+    "first": "plant",
+    "second": "sun"
+  },
+  {
+    "result": "engineer",
+    "first": "human",
+    "second": "tool"
+  },
+  {
+    "result": "eruption",
+    "first": "volcano",
+    "second": "energy"
+  },
+  {
+    "result": "excalibur",
+    "first": "sword",
+    "second": "stone"
+  },
+  {
+    "result": "explosion",
+    "first": "gunpowder",
+    "second": "fire"
+  },
+  {
+    "result": "fabric",
+    "first": "thread",
+    "second": "tool"
+  },
+  {
+    "result": "fairy tale",
+    "first": "story",
+    "second": "monarch"
+  },
+  {
+    "result": "fairy tale",
+    "first": "story",
+    "second": "castle"
+  },
+  {
+    "result": "fairy tale",
+    "first": "knight",
+    "second": "story"
+  },
+  {
+    "result": "fairy tale",
+    "first": "dragon",
+    "second": "story"
+  },
+  {
+    "result": "family",
+    "first": "human",
+    "second": "house"
+  },
+  {
+    "result": "family tree",
+    "first": "tree",
+    "second": "family"
+  },
+  {
+    "result": "farm",
+    "first": "farmer",
+    "second": "house"
+  },
+  {
+    "result": "farm",
+    "first": "farmer",
+    "second": "barn"
+  },
+  {
+    "result": "farmer",
+    "first": "field",
+    "second": "human"
+  },
+  {
+    "result": "farmer",
+    "first": "human",
+    "second": "plant"
+  },
+  {
+    "result": "farmer",
+    "first": "human",
+    "second": "pitchfork"
+  },
+  {
+    "result": "faun",
+    "first": "goat",
+    "second": "human"
+  },
+  {
+    "result": "fence",
+    "first": "wall",
+    "second": "wood"
+  },
+  {
+    "result": "field",
+    "first": "earth",
+    "second": "tool"
+  },
+  {
+    "result": "field",
+    "first": "earth",
+    "second": "farmer"
+  },
+  {
+    "result": "fire extinguisher",
+    "first": "fire",
+    "second": "carbon dioxide"
+  },
+  {
+    "result": "fire extinguisher",
+    "first": "pressure",
+    "second": "carbon dioxide"
+  },
+  {
+    "result": "fire extinguisher",
+    "first": "metal",
+    "second": "carbon dioxide"
+  },
+  {
+    "result": "fireman",
+    "first": "human",
+    "second": "fire"
+  },
+  {
+    "result": "fireman",
+    "first": "human",
+    "second": "firetruck"
+  },
+  {
+    "result": "fireplace",
+    "first": "house",
+    "second": "campfire"
+  },
+  {
+    "result": "fireplace",
+    "first": "campfire",
+    "second": "brick"
+  },
+  {
+    "result": "fireplace",
+    "first": "campfire",
+    "second": "wall"
+  },
+  {
+    "result": "firetruck",
+    "first": "fireman",
+    "second": "car"
+  },
+  {
+    "result": "fireworks",
+    "first": "explosion",
+    "second": "sky"
+  },
+  {
+    "result": "fish",
+    "first": "hard roe",
+    "second": "time"
+  },
+  {
+    "result": "fishing rod",
+    "first": "tool",
+    "second": "fish"
+  },
+  {
+    "result": "fishing rod",
+    "first": "wood",
+    "second": "fish"
+  },
+  {
+    "result": "flamethrower",
+    "first": "fire",
+    "second": "gun"
+  },
+  {
+    "result": "flashlight",
+    "first": "tool",
+    "second": "light"
+  },
+  {
+    "result": "flood",
+    "first": "rain",
+    "second": "rain"
+  },
+  {
+    "result": "flood",
+    "first": "rain",
+    "second": "time"
+  },
+  {
+    "result": "flour",
+    "first": "wheat",
+    "second": "stone"
+  },
+  {
+    "result": "flour",
+    "first": "windmill",
+    "second": "wheat"
+  },
+  {
+    "result": "flower",
+    "first": "plant",
+    "second": "garden"
+  },
+  {
+    "result": "flute",
+    "first": "wood",
+    "second": "wind"
+  },
+  {
+    "result": "flying fish",
+    "first": "fish",
+    "second": "bird"
+  },
+  {
+    "result": "flying fish",
+    "first": "sky",
+    "second": "fish"
+  },
+  {
+    "result": "flying squirrel",
+    "first": "squirrel",
+    "second": "bird"
+  },
+  {
+    "result": "flying squirrel",
+    "first": "squirrel",
+    "second": "wind"
+  },
+  {
+    "result": "flying squirrel",
+    "first": "squirrel",
+    "second": "airplane"
+  },
+  {
+    "result": "flying squirrel",
+    "first": "sky",
+    "second": "squirrel"
+  },
+  {
+    "result": "fog",
+    "first": "earth",
+    "second": "cloud"
+  },
+  {
+    "result": "forest",
+    "first": "tree",
+    "second": "tree"
+  },
+  {
+    "result": "fortune cookie",
+    "first": "paper",
+    "second": "cookie"
+  },
+  {
+    "result": "fossil",
+    "first": "dinosaur",
+    "second": "time"
+  },
+  {
+    "result": "fossil",
+    "first": "dinosaur",
+    "second": "earth"
+  },
+  {
+    "result": "fossil",
+    "first": "stone",
+    "second": "dinosaur"
+  },
+  {
+    "result": "fountain",
+    "first": "statue",
+    "second": "water"
+  },
+  {
+    "result": "fox",
+    "first": "chicken",
+    "second": "wild animal"
+  },
+  {
+    "result": "frankenstein",
+    "first": "zombie",
+    "second": "electricity"
+  },
+  {
+    "result": "frankenstein",
+    "first": "electricity",
+    "second": "corpse"
+  },
+  {
+    "result": "french fries",
+    "first": "oil",
+    "second": "vegetable"
+  },
+  {
+    "result": "fridge",
+    "first": "metal",
+    "second": "cold"
+  },
+  {
+    "result": "fridge",
+    "first": "electricity",
+    "second": "cold"
+  },
+  {
+    "result": "fridge",
+    "first": "metal",
+    "second": "ice"
+  },
+  {
+    "result": "frog",
+    "first": "wild animal",
+    "second": "pond"
+  },
+  {
+    "result": "fruit",
+    "first": "tree",
+    "second": "farmer"
+  },
+  {
+    "result": "fruit",
+    "first": "sun",
+    "second": "tree"
+  },
+  {
+    "result": "fruit tree",
+    "first": "fruit",
+    "second": "tree"
+  },
+  {
+    "result": "galaxy",
+    "first": "star",
+    "second": "star"
+  },
+  {
+    "result": "garden",
+    "first": "plant",
+    "second": "plant"
+  },
+  {
+    "result": "garden",
+    "first": "plant",
+    "second": "grass"
+  },
+  {
+    "result": "garden",
+    "first": "house",
+    "second": "grass"
+  },
+  {
+    "result": "garden",
+    "first": "flower",
+    "second": "flower"
+  },
+  {
+    "result": "gardener",
+    "first": "human",
+    "second": "garden"
+  },
+  {
+    "result": "geyser",
+    "first": "steam",
+    "second": "earth"
+  },
+  {
+    "result": "ghost",
+    "first": "graveyard",
+    "second": "night"
+  },
+  {
+    "result": "ghost",
+    "first": "castle",
+    "second": "night"
+  },
+  {
+    "result": "gift",
+    "first": "santa",
+    "second": "christmas tree"
+  },
+  {
+    "result": "gift",
+    "first": "santa",
+    "second": "christmas stocking"
+  },
+  {
+    "result": "gift",
+    "first": "santa",
+    "second": "cookie"
+  },
+  {
+    "result": "gift",
+    "first": "santa",
+    "second": "chimney"
+  },
+  {
+    "result": "gift",
+    "first": "santa",
+    "second": "fireplace"
+  },
+  {
+    "result": "gingerbread house",
+    "first": "house",
+    "second": "dough"
+  },
+  {
+    "result": "gingerbread house",
+    "first": "house",
+    "second": "gingerbread man"
+  },
+  {
+    "result": "gingerbread man",
+    "first": "life",
+    "second": "dough"
+  },
+  {
+    "result": "glacier",
+    "first": "ice",
+    "second": "mountain"
+  },
+  {
+    "result": "glass",
+    "first": "fire",
+    "second": "sand"
+  },
+  {
+    "result": "glass",
+    "first": "sand",
+    "second": "electricity"
+  },
+  {
+    "result": "glasses",
+    "first": "glass",
+    "second": "metal"
+  },
+  {
+    "result": "glasses",
+    "first": "glass",
+    "second": "glass"
+  },
+  {
+    "result": "gnome",
+    "first": "garden",
+    "second": "statue"
+  },
+  {
+    "result": "goat",
+    "first": "livestock",
+    "second": "mountain"
+  },
+  {
+    "result": "godzilla",
+    "first": "dinosaur",
+    "second": "city"
+  },
+  {
+    "result": "gold",
+    "first": "metal",
+    "second": "sun"
+  },
+  {
+    "result": "gold",
+    "first": "metal",
+    "second": "rainbow"
+  },
+  {
+    "result": "golem",
+    "first": "clay",
+    "second": "life"
+  },
+  {
+    "result": "granite",
+    "first": "lava",
+    "second": "pressure"
+  },
+  {
+    "result": "grass",
+    "first": "plant",
+    "second": "earth"
+  },
+  {
+    "result": "grave",
+    "first": "coffin",
+    "second": "earth"
+  },
+  {
+    "result": "grave",
+    "first": "corpse",
+    "second": "earth"
+  },
+  {
+    "result": "gravestone",
+    "first": "grave",
+    "second": "stone"
+  },
+  {
+    "result": "graveyard",
+    "first": "grave",
+    "second": "grave"
+  },
+  {
+    "result": "graveyard",
+    "first": "gravestone",
+    "second": "gravestone"
+  },
+  {
+    "result": "greenhouse",
+    "first": "plant",
+    "second": "glass"
+  },
+  {
+    "result": "grenade",
+    "first": "explosion",
+    "second": "metal"
+  },
+  {
+    "result": "grilled cheese",
+    "first": "cheese",
+    "second": "toast"
+  },
+  {
+    "result": "grim reaper",
+    "first": "human",
+    "second": "scythe"
+  },
+  {
+    "result": "grim reaper",
+    "first": "corpse",
+    "second": "scythe"
+  },
+  {
+    "result": "gun",
+    "first": "metal",
+    "second": "bullet"
+  },
+  {
+    "result": "gunpowder",
+    "first": "fire",
+    "second": "dust"
+  },
+  {
+    "result": "hail",
+    "first": "rain",
+    "second": "ice"
+  },
+  {
+    "result": "hail",
+    "first": "ice",
+    "second": "storm"
+  },
+  {
+    "result": "hail",
+    "first": "ice",
+    "second": "cloud"
+  },
+  {
+    "result": "ham",
+    "first": "meat",
+    "second": "smoke"
+  },
+  {
+    "result": "hamburger",
+    "first": "meat",
+    "second": "bread"
+  },
+  {
+    "result": "hammer",
+    "first": "metal",
+    "second": "wood"
+  },
+  {
+    "result": "hamster",
+    "first": "wheel",
+    "second": "mouse"
+  },
+  {
+    "result": "hard roe",
+    "first": "egg",
+    "second": "water"
+  },
+  {
+    "result": "hard roe",
+    "first": "fish",
+    "second": "fish"
+  },
+  {
+    "result": "hard roe",
+    "first": "egg",
+    "second": "sea"
+  },
+  {
+    "result": "hard roe",
+    "first": "egg",
+    "second": "ocean"
+  },
+  {
+    "result": "hard roe",
+    "first": "egg",
+    "second": "pond"
+  },
+  {
+    "result": "harp",
+    "first": "angel",
+    "second": "music"
+  },
+  {
+    "result": "hay",
+    "first": "grass",
+    "second": "scythe"
+  },
+  {
+    "result": "hay",
+    "first": "farmer",
+    "second": "grass"
+  },
+  {
+    "result": "hay",
+    "first": "grass",
+    "second": "sun"
+  },
+  {
+    "result": "hay bale",
+    "first": "hay",
+    "second": "hay"
+  },
+  {
+    "result": "hedge",
+    "first": "plant",
+    "second": "fence"
+  },
+  {
+    "result": "hedge",
+    "first": "leaf",
+    "second": "fence"
+  },
+  {
+    "result": "helicopter",
+    "first": "blade",
+    "second": "airplane"
+  },
+  {
+    "result": "helicopter",
+    "first": "windmill",
+    "second": "airplane"
+  },
+  {
+    "result": "hero",
+    "first": "knight",
+    "second": "dragon"
+  },
+  {
+    "result": "hippo",
+    "first": "horse",
+    "second": "river"
+  },
+  {
+    "result": "hippo",
+    "first": "horse",
+    "second": "water"
+  },
+  {
+    "result": "honey",
+    "first": "bee",
+    "second": "flower"
+  },
+  {
+    "result": "honey",
+    "first": "bee",
+    "second": "beehive"
+  },
+  {
+    "result": "horizon",
+    "first": "sky",
+    "second": "earth"
+  },
+  {
+    "result": "horizon",
+    "first": "sea",
+    "second": "sky"
+  },
+  {
+    "result": "horizon",
+    "first": "ocean",
+    "second": "sky"
+  },
+  {
+    "result": "horse",
+    "first": "hay",
+    "second": "livestock"
+  },
+  {
+    "result": "horseshoe",
+    "first": "metal",
+    "second": "horse"
+  },
+  {
+    "result": "hospital",
+    "first": "house",
+    "second": "sickness"
+  },
+  {
+    "result": "hospital",
+    "first": "house",
+    "second": "ambulance"
+  },
+  {
+    "result": "hospital",
+    "first": "house",
+    "second": "doctor"
+  },
+  {
+    "result": "hourglass",
+    "first": "sand",
+    "second": "glass"
+  },
+  {
+    "result": "house",
+    "first": "wood",
+    "second": "human"
+  },
+  {
+    "result": "house",
+    "first": "human",
+    "second": "brick"
+  },
+  {
+    "result": "house",
+    "first": "tool",
+    "second": "brick"
+  },
+  {
+    "result": "house",
+    "first": "wall",
+    "second": "wall"
+  },
+  {
+    "result": "human",
+    "first": "earth",
+    "second": "life"
+  },
+  {
+    "result": "hummingbird",
+    "first": "bird",
+    "second": "flower"
+  },
+  {
+    "result": "hurricane",
+    "first": "wind",
+    "second": "energy"
+  },
+  {
+    "result": "husky",
+    "first": "snow",
+    "second": "dog"
+  },
+  {
+    "result": "husky",
+    "first": "ice",
+    "second": "dog"
+  },
+  {
+    "result": "ice",
+    "first": "water",
+    "second": "cold"
+  },
+  {
+    "result": "ice cream",
+    "first": "milk",
+    "second": "cold"
+  },
+  {
+    "result": "ice cream",
+    "first": "milk",
+    "second": "ice"
+  },
+  {
+    "result": "ice cream truck",
+    "first": "car",
+    "second": "ice cream"
+  },
+  {
+    "result": "iceberg",
+    "first": "sea",
+    "second": "ice"
+  },
+  {
+    "result": "iceberg",
+    "first": "ocean",
+    "second": "ice"
+  },
+  {
+    "result": "iceberg",
+    "first": "sea",
+    "second": "antarctica"
+  },
+  {
+    "result": "iceberg",
+    "first": "ocean",
+    "second": "antarctica"
+  },
+  {
+    "result": "iced tea",
+    "first": "ice",
+    "second": "tea"
+  },
+  {
+    "result": "iced tea",
+    "first": "cold",
+    "second": "tea"
+  },
+  {
+    "result": "idea",
+    "first": "human",
+    "second": "light bulb"
+  },
+  {
+    "result": "idea",
+    "first": "light bulb",
+    "second": "nerd"
+  },
+  {
+    "result": "igloo",
+    "first": "house",
+    "second": "ice"
+  },
+  {
+    "result": "igloo",
+    "first": "house",
+    "second": "snow"
+  },
+  {
+    "result": "internet",
+    "first": "computer",
+    "second": "computer"
+  },
+  {
+    "result": "internet",
+    "first": "computer",
+    "second": "wire"
+  },
+  {
+    "result": "internet",
+    "first": "computer",
+    "second": "web"
+  },
+  {
+    "result": "isle",
+    "first": "ocean",
+    "second": "volcano"
+  },
+  {
+    "result": "isle",
+    "first": "volcano",
+    "second": "sea"
+  },
+  {
+    "result": "ivy",
+    "first": "plant",
+    "second": "wall"
+  },
+  {
+    "result": "jack-o'-lantern",
+    "first": "pumpkin",
+    "second": "fire"
+  },
+  {
+    "result": "jack-o'-lantern",
+    "first": "blade",
+    "second": "pumpkin"
+  },
+  {
+    "result": "jack-o'-lantern",
+    "first": "pumpkin",
+    "second": "candle"
+  },
+  {
+    "result": "jam",
+    "first": "juice",
+    "second": "sugar"
+  },
+  {
+    "result": "jedi",
+    "first": "lightsaber",
+    "second": "human"
+  },
+  {
+    "result": "jedi",
+    "first": "knight",
+    "second": "lightsaber"
+  },
+  {
+    "result": "jerky",
+    "first": "meat",
+    "second": "sun"
+  },
+  {
+    "result": "jerky",
+    "first": "meat",
+    "second": "salt"
+  },
+  {
+    "result": "juice",
+    "first": "water",
+    "second": "fruit"
+  },
+  {
+    "result": "juice",
+    "first": "pressure",
+    "second": "fruit"
+  },
+  {
+    "result": "kite",
+    "first": "wind",
+    "second": "paper"
+  },
+  {
+    "result": "kite",
+    "first": "sky",
+    "second": "paper"
+  },
+  {
+    "result": "knight",
+    "first": "human",
+    "second": "armor"
+  },
+  {
+    "result": "lake",
+    "first": "water",
+    "second": "pond"
+  },
+  {
+    "result": "lake",
+    "first": "river",
+    "second": "dam"
+  },
+  {
+    "result": "lamp",
+    "first": "metal",
+    "second": "light bulb"
+  },
+  {
+    "result": "lasso",
+    "first": "cow",
+    "second": "rope"
+  },
+  {
+    "result": "lasso",
+    "first": "horse",
+    "second": "rope"
+  },
+  {
+    "result": "lava",
+    "first": "earth",
+    "second": "fire"
+  },
+  {
+    "result": "lava lamp",
+    "first": "lava",
+    "second": "lamp"
+  },
+  {
+    "result": "lawn mower",
+    "first": "grass",
+    "second": "tool"
+  },
+  {
+    "result": "lawn mower",
+    "first": "electricity",
+    "second": "scythe"
+  },
+  {
+    "result": "leaf",
+    "first": "tree",
+    "second": "wind"
+  },
+  {
+    "result": "leather",
+    "first": "cow",
+    "second": "blade"
+  },
+  {
+    "result": "leather",
+    "first": "pig",
+    "second": "blade"
+  },
+  {
+    "result": "lemonade",
+    "first": "fruit",
+    "second": "water"
+  },
+  {
+    "result": "letter",
+    "first": "paper",
+    "second": "pencil"
+  },
+  {
+    "result": "life",
+    "first": "swamp",
+    "second": "energy"
+  },
+  {
+    "result": "life",
+    "first": "love",
+    "second": "time"
+  },
+  {
+    "result": "light",
+    "first": "light bulb",
+    "second": "electricity"
+  },
+  {
+    "result": "light",
+    "first": "electricity",
+    "second": "flashlight"
+  },
+  {
+    "result": "light bulb",
+    "first": "electricity",
+    "second": "glass"
+  },
+  {
+    "result": "lighthouse",
+    "first": "light",
+    "second": "house"
+  },
+  {
+    "result": "lighthouse",
+    "first": "light",
+    "second": "beach"
+  },
+  {
+    "result": "lighthouse",
+    "first": "light",
+    "second": "ocean"
+  },
+  {
+    "result": "lighthouse",
+    "first": "light",
+    "second": "sea"
+  },
+  {
+    "result": "lightsaber",
+    "first": "light",
+    "second": "sword"
+  },
+  {
+    "result": "lightsaber",
+    "first": "energy",
+    "second": "sword"
+  },
+  {
+    "result": "lightsaber",
+    "first": "electricity",
+    "second": "sword"
+  },
+  {
+    "result": "lion",
+    "first": "wild animal",
+    "second": "cat"
+  },
+  {
+    "result": "livestock",
+    "first": "farmer",
+    "second": "life"
+  },
+  {
+    "result": "livestock",
+    "first": "wild animal",
+    "second": "human"
+  },
+  {
+    "result": "livestock",
+    "first": "farmer",
+    "second": "wild animal"
+  },
+  {
+    "result": "lizard",
+    "first": "egg",
+    "second": "swamp"
+  },
+  {
+    "result": "log cabin",
+    "first": "wood",
+    "second": "house"
+  },
+  {
+    "result": "love",
+    "first": "human",
+    "second": "human"
+  },
+  {
+    "result": "lumberjack",
+    "first": "axe",
+    "second": "human"
+  },
+  {
+    "result": "lumberjack",
+    "first": "human",
+    "second": "chainsaw"
+  },
+  {
+    "result": "mac and cheese",
+    "first": "cheese",
+    "second": "pasta"
+  },
+  {
+    "result": "mailman",
+    "first": "human",
+    "second": "letter"
+  },
+  {
+    "result": "manatee",
+    "first": "cow",
+    "second": "sea"
+  },
+  {
+    "result": "map",
+    "first": "paper",
+    "second": "earth"
+  },
+  {
+    "result": "mars",
+    "first": "rust",
+    "second": "planet"
+  },
+  {
+    "result": "marshmallows",
+    "first": "sugar",
+    "second": "campfire"
+  },
+  {
+    "result": "mayonnaise",
+    "first": "egg",
+    "second": "oil"
+  },
+  {
+    "result": "meat",
+    "first": "cow",
+    "second": "tool"
+  },
+  {
+    "result": "meat",
+    "first": "pig",
+    "second": "tool"
+  },
+  {
+    "result": "meat",
+    "first": "blade",
+    "second": "livestock"
+  },
+  {
+    "result": "meat",
+    "first": "cow",
+    "second": "butcher"
+  },
+  {
+    "result": "meat",
+    "first": "pig",
+    "second": "butcher"
+  },
+  {
+    "result": "meat",
+    "first": "livestock",
+    "second": "butcher"
+  },
+  {
+    "result": "medusa",
+    "first": "human",
+    "second": "snake"
+  },
+  {
+    "result": "mermaid",
+    "first": "human",
+    "second": "fish"
+  },
+  {
+    "result": "metal",
+    "first": "fire",
+    "second": "stone"
+  },
+  {
+    "result": "meteor",
+    "first": "meteoroid",
+    "second": "atmosphere"
+  },
+  {
+    "result": "meteor",
+    "first": "sky",
+    "second": "meteoroid"
+  },
+  {
+    "result": "meteoroid",
+    "first": "stone",
+    "second": "space"
+  },
+  {
+    "result": "microscope",
+    "first": "glass",
+    "second": "bacteria"
+  },
+  {
+    "result": "microscope",
+    "first": "bacteria",
+    "second": "glasses"
+  },
+  {
+    "result": "milk",
+    "first": "farmer",
+    "second": "cow"
+  },
+  {
+    "result": "milk",
+    "first": "cow",
+    "second": "human"
+  },
+  {
+    "result": "milk shake",
+    "first": "milk",
+    "second": "ice cream"
+  },
+  {
+    "result": "minotaur",
+    "first": "human",
+    "second": "cow"
+  },
+  {
+    "result": "mirror",
+    "first": "glass",
+    "second": "metal"
+  },
+  {
+    "result": "mold",
+    "first": "time",
+    "second": "bread"
+  },
+  {
+    "result": "monarch",
+    "first": "human",
+    "second": "castle"
+  },
+  {
+    "result": "monarch",
+    "first": "excalibur",
+    "second": "human"
+  },
+  {
+    "result": "money",
+    "first": "paper",
+    "second": "gold"
+  },
+  {
+    "result": "monkey",
+    "first": "tree",
+    "second": "wild animal"
+  },
+  {
+    "result": "moon",
+    "first": "sky",
+    "second": "cheese"
+  },
+  {
+    "result": "moon",
+    "first": "sky",
+    "second": "stone"
+  },
+  {
+    "result": "moss",
+    "first": "plant",
+    "second": "stone"
+  },
+  {
+    "result": "moss",
+    "first": "algae",
+    "second": "stone"
+  },
+  {
+    "result": "moth",
+    "first": "moon",
+    "second": "butterfly"
+  },
+  {
+    "result": "moth",
+    "first": "night",
+    "second": "butterfly"
+  },
+  {
+    "result": "motorcycle",
+    "first": "bicycle",
+    "second": "energy"
+  },
+  {
+    "result": "motorcycle",
+    "first": "bicycle",
+    "second": "steel"
+  },
+  {
+    "result": "mountain",
+    "first": "earthquake",
+    "second": "earth"
+  },
+  {
+    "result": "mountain goat",
+    "first": "mountain",
+    "second": "goat"
+  },
+  {
+    "result": "mountain goat",
+    "first": "goat",
+    "second": "mountain range"
+  },
+  {
+    "result": "mountain range",
+    "first": "mountain",
+    "second": "mountain"
+  },
+  {
+    "result": "mouse",
+    "first": "cheese",
+    "second": "wild animal"
+  },
+  {
+    "result": "mousetrap",
+    "first": "wood",
+    "second": "cheese"
+  },
+  {
+    "result": "mousetrap",
+    "first": "metal",
+    "second": "cheese"
+  },
+  {
+    "result": "mud",
+    "first": "water",
+    "second": "earth"
+  },
+  {
+    "result": "mummy",
+    "first": "corpse",
+    "second": "pyramid"
+  },
+  {
+    "result": "music",
+    "first": "human",
+    "second": "flute"
+  },
+  {
+    "result": "music",
+    "first": "human",
+    "second": "sound"
+  },
+  {
+    "result": "narwhal",
+    "first": "unicorn",
+    "second": "ocean"
+  },
+  {
+    "result": "narwhal",
+    "first": "unicorn",
+    "second": "water"
+  },
+  {
+    "result": "narwhal",
+    "first": "sea",
+    "second": "unicorn"
+  },
+  {
+    "result": "needle",
+    "first": "metal",
+    "second": "thread"
+  },
+  {
+    "result": "needle",
+    "first": "metal",
+    "second": "hay"
+  },
+  {
+    "result": "nerd",
+    "first": "human",
+    "second": "glasses"
+  },
+  {
+    "result": "nest",
+    "first": "bird",
+    "second": "tree"
+  },
+  {
+    "result": "nest",
+    "first": "bird",
+    "second": "hay"
+  },
+  {
+    "result": "nest",
+    "first": "egg",
+    "second": "hay"
+  },
+  {
+    "result": "newspaper",
+    "first": "paper",
+    "second": "paper"
+  },
+  {
+    "result": "night",
+    "first": "moon",
+    "second": "time"
+  },
+  {
+    "result": "night",
+    "first": "time",
+    "second": "day"
+  },
+  {
+    "result": "night",
+    "first": "sky",
+    "second": "moon"
+  },
+  {
+    "result": "ninja",
+    "first": "shuriken",
+    "second": "human"
+  },
+  {
+    "result": "oasis",
+    "first": "desert",
+    "second": "water"
+  },
+  {
+    "result": "oasis",
+    "first": "tree",
+    "second": "desert"
+  },
+  {
+    "result": "oasis",
+    "first": "desert",
+    "second": "palm"
+  },
+  {
+    "result": "obsidian",
+    "first": "lava",
+    "second": "water"
+  },
+  {
+    "result": "ocean",
+    "first": "water",
+    "second": "sea"
+  },
+  {
+    "result": "ocean",
+    "first": "sea",
+    "second": "sea"
+  },
+  {
+    "result": "oil",
+    "first": "sunflower",
+    "second": "pressure"
+  },
+  {
+    "result": "omelette",
+    "first": "egg",
+    "second": "fire"
+  },
+  {
+    "result": "optical fiber",
+    "first": "wire",
+    "second": "light"
+  },
+  {
+    "result": "orchard",
+    "first": "fruit tree",
+    "second": "fruit tree"
+  },
+  {
+    "result": "orchard",
+    "first": "field",
+    "second": "fruit tree"
+  },
+  {
+    "result": "origami",
+    "first": "bird",
+    "second": "paper"
+  },
+  {
+    "result": "ostrich",
+    "first": "bird",
+    "second": "earth"
+  },
+  {
+    "result": "ostrich",
+    "first": "bird",
+    "second": "sand"
+  },
+  {
+    "result": "owl",
+    "first": "night",
+    "second": "bird"
+  },
+  {
+    "result": "owl",
+    "first": "bird",
+    "second": "wizard"
+  },
+  {
+    "result": "oxygen",
+    "first": "plant",
+    "second": "sun"
+  },
+  {
+    "result": "oxygen",
+    "first": "plant",
+    "second": "carbon dioxide"
+  },
+  {
+    "result": "ozone",
+    "first": "oxygen",
+    "second": "oxygen"
+  },
+  {
+    "result": "ozone",
+    "first": "electricity",
+    "second": "oxygen"
+  },
+  {
+    "result": "paint",
+    "first": "water",
+    "second": "rainbow"
+  },
+  {
+    "result": "paint",
+    "first": "water",
+    "second": "pencil"
+  },
+  {
+    "result": "palm",
+    "first": "isle",
+    "second": "tree"
+  },
+  {
+    "result": "palm",
+    "first": "tree",
+    "second": "beach"
+  },
+  {
+    "result": "paper",
+    "first": "wood",
+    "second": "pressure"
+  },
+  {
+    "result": "paper airplane",
+    "first": "airplane",
+    "second": "paper"
+  },
+  {
+    "result": "parachute",
+    "first": "pilot",
+    "second": "fabric"
+  },
+  {
+    "result": "parachute",
+    "first": "pilot",
+    "second": "umbrella"
+  },
+  {
+    "result": "parrot",
+    "first": "bird",
+    "second": "pirate"
+  },
+  {
+    "result": "pasta",
+    "first": "flour",
+    "second": "egg"
+  },
+  {
+    "result": "peacock",
+    "first": "bird",
+    "second": "rainbow"
+  },
+  {
+    "result": "pegasus",
+    "first": "bird",
+    "second": "horse"
+  },
+  {
+    "result": "pegasus",
+    "first": "sky",
+    "second": "horse"
+  },
+  {
+    "result": "pegasus",
+    "first": "bird",
+    "second": "unicorn"
+  },
+  {
+    "result": "pencil",
+    "first": "wood",
+    "second": "coal"
+  },
+  {
+    "result": "pencil",
+    "first": "wood",
+    "second": "charcoal"
+  },
+  {
+    "result": "pencil sharpener",
+    "first": "blade",
+    "second": "pencil"
+  },
+  {
+    "result": "penguin",
+    "first": "ice",
+    "second": "wild animal"
+  },
+  {
+    "result": "penguin",
+    "first": "ice",
+    "second": "bird"
+  },
+  {
+    "result": "penguin",
+    "first": "bird",
+    "second": "snow"
+  },
+  {
+    "result": "penicillin",
+    "first": "doctor",
+    "second": "mold"
+  },
+  {
+    "result": "perfume",
+    "first": "water",
+    "second": "rose"
+  },
+  {
+    "result": "perfume",
+    "first": "water",
+    "second": "flower"
+  },
+  {
+    "result": "perfume",
+    "first": "steam",
+    "second": "rose"
+  },
+  {
+    "result": "perfume",
+    "first": "steam",
+    "second": "flower"
+  },
+  {
+    "result": "perfume",
+    "first": "alcohol",
+    "second": "rose"
+  },
+  {
+    "result": "perfume",
+    "first": "alcohol",
+    "second": "flower"
+  },
+  {
+    "result": "petroleum",
+    "first": "fossil",
+    "second": "time"
+  },
+  {
+    "result": "petroleum",
+    "first": "fossil",
+    "second": "pressure"
+  },
+  {
+    "result": "phoenix",
+    "first": "fire",
+    "second": "bird"
+  },
+  {
+    "result": "picnic",
+    "first": "grass",
+    "second": "sandwich"
+  },
+  {
+    "result": "picnic",
+    "first": "beach",
+    "second": "sandwich"
+  },
+  {
+    "result": "pie",
+    "first": "dough",
+    "second": "fruit"
+  },
+  {
+    "result": "pig",
+    "first": "livestock",
+    "second": "mud"
+  },
+  {
+    "result": "pigeon",
+    "first": "bird",
+    "second": "city"
+  },
+  {
+    "result": "pigeon",
+    "first": "bird",
+    "second": "letter"
+  },
+  {
+    "result": "pigeon",
+    "first": "bird",
+    "second": "statue"
+  },
+  {
+    "result": "piggy bank",
+    "first": "pig",
+    "second": "money"
+  },
+  {
+    "result": "piggy bank",
+    "first": "pottery",
+    "second": "pig"
+  },
+  {
+    "result": "pilot",
+    "first": "airplane",
+    "second": "human"
+  },
+  {
+    "result": "pilot",
+    "first": "seaplane",
+    "second": "human"
+  },
+  {
+    "result": "pinocchio",
+    "first": "wood",
+    "second": "life"
+  },
+  {
+    "result": "pipe",
+    "first": "tobacco",
+    "second": "wood"
+  },
+  {
+    "result": "piranha",
+    "first": "fish",
+    "second": "blood"
+  },
+  {
+    "result": "pirate",
+    "first": "sword",
+    "second": "sailor"
+  },
+  {
+    "result": "pirate",
+    "first": "sailor",
+    "second": "pirate ship"
+  },
+  {
+    "result": "pirate ship",
+    "first": "sailboat",
+    "second": "pirate"
+  },
+  {
+    "result": "pirate ship",
+    "first": "boat",
+    "second": "pirate"
+  },
+  {
+    "result": "pitchfork",
+    "first": "tool",
+    "second": "hay"
+  },
+  {
+    "result": "pizza",
+    "first": "cheese",
+    "second": "dough"
+  },
+  {
+    "result": "planet",
+    "first": "earth",
+    "second": "space"
+  },
+  {
+    "result": "plankton",
+    "first": "water",
+    "second": "life"
+  },
+  {
+    "result": "plankton",
+    "first": "ocean",
+    "second": "life"
+  },
+  {
+    "result": "plankton",
+    "first": "sea",
+    "second": "life"
+  },
+  {
+    "result": "plant",
+    "first": "rain",
+    "second": "earth"
+  },
+  {
+    "result": "platypus",
+    "first": "beaver",
+    "second": "duck"
+  },
+  {
+    "result": "pond",
+    "first": "water",
+    "second": "garden"
+  },
+  {
+    "result": "popsicle",
+    "first": "juice",
+    "second": "ice"
+  },
+  {
+    "result": "popsicle",
+    "first": "juice",
+    "second": "cold"
+  },
+  {
+    "result": "pottery",
+    "first": "fire",
+    "second": "clay"
+  },
+  {
+    "result": "pottery",
+    "first": "clay",
+    "second": "wheel"
+  },
+  {
+    "result": "pottery",
+    "first": "clay",
+    "second": "tool"
+  },
+  {
+    "result": "pressure",
+    "first": "earth",
+    "second": "earth"
+  },
+  {
+    "result": "pressure",
+    "first": "air",
+    "second": "air"
+  },
+  {
+    "result": "printer",
+    "first": "paper",
+    "second": "computer"
+  },
+  {
+    "result": "prism",
+    "first": "glass",
+    "second": "rainbow"
+  },
+  {
+    "result": "pterodactyl",
+    "first": "air",
+    "second": "dinosaur"
+  },
+  {
+    "result": "pterodactyl",
+    "first": "bird",
+    "second": "dinosaur"
+  },
+  {
+    "result": "puddle",
+    "first": "sun",
+    "second": "ice"
+  },
+  {
+    "result": "puddle",
+    "first": "sun",
+    "second": "snowman"
+  },
+  {
+    "result": "puddle",
+    "first": "snowman",
+    "second": "flamethrower"
+  },
+  {
+    "result": "pumpkin",
+    "first": "vegetable",
+    "second": "fire"
+  },
+  {
+    "result": "pumpkin",
+    "first": "vegetable",
+    "second": "light"
+  },
+  {
+    "result": "pyramid",
+    "first": "desert",
+    "second": "grave"
+  },
+  {
+    "result": "pyramid",
+    "first": "desert",
+    "second": "stone"
+  },
+  {
+    "result": "quicksand",
+    "first": "sand",
+    "second": "swamp"
+  },
+  {
+    "result": "rain",
+    "first": "water",
+    "second": "air"
+  },
+  {
+    "result": "rain",
+    "first": "cloud",
+    "second": "water"
+  },
+  {
+    "result": "rainbow",
+    "first": "rain",
+    "second": "sun"
+  },
+  {
+    "result": "rainbow",
+    "first": "rain",
+    "second": "light"
+  },
+  {
+    "result": "rat",
+    "first": "wild animal",
+    "second": "pirate ship"
+  },
+  {
+    "result": "rat",
+    "first": "sailboat",
+    "second": "wild animal"
+  },
+  {
+    "result": "recipe",
+    "first": "flour",
+    "second": "paper"
+  },
+  {
+    "result": "recipe",
+    "first": "paper",
+    "second": "baker"
+  },
+  {
+    "result": "reindeer",
+    "first": "santa",
+    "second": "wild animal"
+  },
+  {
+    "result": "reindeer",
+    "first": "livestock",
+    "second": "santa"
+  },
+  {
+    "result": "ring",
+    "first": "diamond",
+    "second": "metal"
+  },
+  {
+    "result": "ring",
+    "first": "diamond",
+    "second": "gold"
+  },
+  {
+    "result": "river",
+    "first": "mountain",
+    "second": "water"
+  },
+  {
+    "result": "river",
+    "first": "rain",
+    "second": "mountain"
+  },
+  {
+    "result": "robot",
+    "first": "metal",
+    "second": "life"
+  },
+  {
+    "result": "robot",
+    "first": "steel",
+    "second": "life"
+  },
+  {
+    "result": "robot",
+    "first": "life",
+    "second": "armor"
+  },
+  {
+    "result": "rocket",
+    "first": "airplane",
+    "second": "space"
+  },
+  {
+    "result": "roller coaster",
+    "first": "train",
+    "second": "mountain"
+  },
+  {
+    "result": "roller coaster",
+    "first": "mountain",
+    "second": "cart"
+  },
+  {
+    "result": "roomba",
+    "first": "robot",
+    "second": "vacuum cleaner"
+  },
+  {
+    "result": "rope",
+    "first": "thread",
+    "second": "thread"
+  },
+  {
+    "result": "rose",
+    "first": "plant",
+    "second": "love"
+  },
+  {
+    "result": "rose",
+    "first": "flower",
+    "second": "love"
+  },
+  {
+    "result": "ruins",
+    "first": "time",
+    "second": "castle"
+  },
+  {
+    "result": "ruins",
+    "first": "time",
+    "second": "house"
+  },
+  {
+    "result": "ruler",
+    "first": "wood",
+    "second": "pencil"
+  },
+  {
+    "result": "rust",
+    "first": "air",
+    "second": "metal"
+  },
+  {
+    "result": "rust",
+    "first": "metal",
+    "second": "oxygen"
+  },
+  {
+    "result": "rust",
+    "first": "steel",
+    "second": "oxygen"
+  },
+  {
+    "result": "rust",
+    "first": "air",
+    "second": "steel"
+  },
+  {
+    "result": "rv",
+    "first": "house",
+    "second": "car"
+  },
+  {
+    "result": "saddle",
+    "first": "horse",
+    "second": "leather"
+  },
+  {
+    "result": "safe",
+    "first": "metal",
+    "second": "money"
+  },
+  {
+    "result": "safe",
+    "first": "metal",
+    "second": "gold"
+  },
+  {
+    "result": "safe",
+    "first": "steel",
+    "second": "money"
+  },
+  {
+    "result": "safe",
+    "first": "steel",
+    "second": "gold"
+  },
+  {
+    "result": "safety glasses",
+    "first": "tool",
+    "second": "glasses"
+  },
+  {
+    "result": "safety glasses",
+    "first": "explosion",
+    "second": "glasses"
+  },
+  {
+    "result": "safety glasses",
+    "first": "engineer",
+    "second": "glasses"
+  },
+  {
+    "result": "sailboat",
+    "first": "boat",
+    "second": "wind"
+  },
+  {
+    "result": "sailboat",
+    "first": "boat",
+    "second": "fabric"
+  },
+  {
+    "result": "sailor",
+    "first": "human",
+    "second": "boat"
+  },
+  {
+    "result": "sailor",
+    "first": "human",
+    "second": "sailboat"
+  },
+  {
+    "result": "salt",
+    "first": "sea",
+    "second": "sun"
+  },
+  {
+    "result": "salt",
+    "first": "ocean",
+    "second": "sun"
+  },
+  {
+    "result": "salt",
+    "first": "fire",
+    "second": "sea"
+  },
+  {
+    "result": "salt",
+    "first": "fire",
+    "second": "ocean"
+  },
+  {
+    "result": "sand",
+    "first": "air",
+    "second": "stone"
+  },
+  {
+    "result": "sand",
+    "first": "wind",
+    "second": "stone"
+  },
+  {
+    "result": "sand castle",
+    "first": "sand",
+    "second": "castle"
+  },
+  {
+    "result": "sandpaper",
+    "first": "sand",
+    "second": "paper"
+  },
+  {
+    "result": "sandstone",
+    "first": "stone",
+    "second": "sand"
+  },
+  {
+    "result": "sandstorm",
+    "first": "sand",
+    "second": "storm"
+  },
+  {
+    "result": "sandstorm",
+    "first": "sand",
+    "second": "hurricane"
+  },
+  {
+    "result": "sandstorm",
+    "first": "sand",
+    "second": "energy"
+  },
+  {
+    "result": "sandwich",
+    "first": "bread",
+    "second": "ham"
+  },
+  {
+    "result": "sandwich",
+    "first": "cheese",
+    "second": "bread"
+  },
+  {
+    "result": "sandwich",
+    "first": "bread",
+    "second": "bacon"
+  },
+  {
+    "result": "santa",
+    "first": "human",
+    "second": "christmas tree"
+  },
+  {
+    "result": "scalpel",
+    "first": "blade",
+    "second": "doctor"
+  },
+  {
+    "result": "scalpel",
+    "first": "blade",
+    "second": "hospital"
+  },
+  {
+    "result": "scarecrow",
+    "first": "human",
+    "second": "hay"
+  },
+  {
+    "result": "scissors",
+    "first": "blade",
+    "second": "blade"
+  },
+  {
+    "result": "scorpion",
+    "first": "wild animal",
+    "second": "dune"
+  },
+  {
+    "result": "scorpion",
+    "first": "wild animal",
+    "second": "sand"
+  },
+  {
+    "result": "scythe",
+    "first": "blade",
+    "second": "grass"
+  },
+  {
+    "result": "scythe",
+    "first": "blade",
+    "second": "wheat"
+  },
+  {
+    "result": "sea",
+    "first": "water",
+    "second": "water"
+  },
+  {
+    "result": "seagull",
+    "first": "bird",
+    "second": "sea"
+  },
+  {
+    "result": "seagull",
+    "first": "bird",
+    "second": "ocean"
+  },
+  {
+    "result": "seagull",
+    "first": "bird",
+    "second": "beach"
+  },
+  {
+    "result": "seahorse",
+    "first": "horse",
+    "second": "sea"
+  },
+  {
+    "result": "seahorse",
+    "first": "ocean",
+    "second": "horse"
+  },
+  {
+    "result": "seahorse",
+    "first": "fish",
+    "second": "horse"
+  },
+  {
+    "result": "seal",
+    "first": "dog",
+    "second": "sea"
+  },
+  {
+    "result": "seaplane",
+    "first": "airplane",
+    "second": "water"
+  },
+  {
+    "result": "seaplane",
+    "first": "airplane",
+    "second": "ocean"
+  },
+  {
+    "result": "seaplane",
+    "first": "airplane",
+    "second": "sea"
+  },
+  {
+    "result": "seasickness",
+    "first": "sickness",
+    "second": "sea"
+  },
+  {
+    "result": "seasickness",
+    "first": "sickness",
+    "second": "ocean"
+  },
+  {
+    "result": "seasickness",
+    "first": "boat",
+    "second": "sickness"
+  },
+  {
+    "result": "seasickness",
+    "first": "steamboat",
+    "second": "sickness"
+  },
+  {
+    "result": "seasickness",
+    "first": "sailboat",
+    "second": "sickness"
+  },
+  {
+    "result": "seaweed",
+    "first": "plant",
+    "second": "sea"
+  },
+  {
+    "result": "seaweed",
+    "first": "plant",
+    "second": "ocean"
+  },
+  {
+    "result": "sewing machine",
+    "first": "electricity",
+    "second": "needle"
+  },
+  {
+    "result": "sewing machine",
+    "first": "robot",
+    "second": "needle"
+  },
+  {
+    "result": "shark",
+    "first": "blood",
+    "second": "ocean"
+  },
+  {
+    "result": "shark",
+    "first": "sea",
+    "second": "blood"
+  },
+  {
+    "result": "shark",
+    "first": "ocean",
+    "second": "wild animal"
+  },
+  {
+    "result": "shark",
+    "first": "sea",
+    "second": "wild animal"
+  },
+  {
+    "result": "sheep",
+    "first": "cloud",
+    "second": "livestock"
+  },
+  {
+    "result": "sheet music",
+    "first": "paper",
+    "second": "music"
+  },
+  {
+    "result": "shuriken",
+    "first": "star",
+    "second": "blade"
+  },
+  {
+    "result": "sickness",
+    "first": "human",
+    "second": "rain"
+  },
+  {
+    "result": "sickness",
+    "first": "human",
+    "second": "sickness"
+  },
+  {
+    "result": "sickness",
+    "first": "human",
+    "second": "sickness"
+  },
+  {
+    "result": "sickness",
+    "first": "human",
+    "second": "bacteria"
+  },
+  {
+    "result": "skateboard",
+    "first": "snowboard",
+    "second": "wheel"
+  },
+  {
+    "result": "skeleton",
+    "first": "corpse",
+    "second": "time"
+  },
+  {
+    "result": "skeleton",
+    "first": "bone",
+    "second": "bone"
+  },
+  {
+    "result": "ski goggles",
+    "first": "glasses",
+    "second": "snow"
+  },
+  {
+    "result": "sky",
+    "first": "air",
+    "second": "cloud"
+  },
+  {
+    "result": "skyscraper",
+    "first": "house",
+    "second": "sky"
+  },
+  {
+    "result": "sledge",
+    "first": "snow",
+    "second": "cart"
+  },
+  {
+    "result": "sledge",
+    "first": "snow",
+    "second": "wagon"
+  },
+  {
+    "result": "sloth",
+    "first": "wild animal",
+    "second": "time"
+  },
+  {
+    "result": "smog",
+    "first": "smoke",
+    "second": "fog"
+  },
+  {
+    "result": "smog",
+    "first": "fog",
+    "second": "city"
+  },
+  {
+    "result": "smoke",
+    "first": "fire",
+    "second": "wood"
+  },
+  {
+    "result": "smoke signal",
+    "first": "campfire",
+    "second": "fabric"
+  },
+  {
+    "result": "smoke signal",
+    "first": "smoke",
+    "second": "fabric"
+  },
+  {
+    "result": "smoothie",
+    "first": "fruit",
+    "second": "blender"
+  },
+  {
+    "result": "snake",
+    "first": "wild animal",
+    "second": "wire"
+  },
+  {
+    "result": "snow",
+    "first": "rain",
+    "second": "cold"
+  },
+  {
+    "result": "snow",
+    "first": "steam",
+    "second": "cold"
+  },
+  {
+    "result": "snow globe",
+    "first": "snow",
+    "second": "crystal ball"
+  },
+  {
+    "result": "snowball",
+    "first": "snow",
+    "second": "human"
+  },
+  {
+    "result": "snowboard",
+    "first": "wood",
+    "second": "snow"
+  },
+  {
+    "result": "snowboard",
+    "first": "snow",
+    "second": "surfer"
+  },
+  {
+    "result": "snowman",
+    "first": "snow",
+    "second": "human"
+  },
+  {
+    "result": "snowman",
+    "first": "snowball",
+    "second": "snowball"
+  },
+  {
+    "result": "snowman",
+    "first": "snow",
+    "second": "carrot"
+  },
+  {
+    "result": "snowman",
+    "first": "snowball",
+    "second": "carrot"
+  },
+  {
+    "result": "snowmobile",
+    "first": "snow",
+    "second": "motorcycle"
+  },
+  {
+    "result": "snowmobile",
+    "first": "snow",
+    "second": "car"
+  },
+  {
+    "result": "soap",
+    "first": "oil",
+    "second": "ash"
+  },
+  {
+    "result": "soda",
+    "first": "water",
+    "second": "carbon dioxide"
+  },
+  {
+    "result": "soda",
+    "first": "juice",
+    "second": "carbon dioxide"
+  },
+  {
+    "result": "solar cell",
+    "first": "sun",
+    "second": "tool"
+  },
+  {
+    "result": "solar system",
+    "first": "sun",
+    "second": "planet"
+  },
+  {
+    "result": "sound",
+    "first": "air",
+    "second": "wave"
+  },
+  {
+    "result": "space",
+    "first": "sky",
+    "second": "star"
+  },
+  {
+    "result": "space",
+    "first": "sun",
+    "second": "star"
+  },
+  {
+    "result": "space",
+    "first": "moon",
+    "second": "star"
+  },
+  {
+    "result": "space station",
+    "first": "space",
+    "second": "house"
+  },
+  {
+    "result": "spaceship",
+    "first": "airplane",
+    "second": "astronaut"
+  },
+  {
+    "result": "sphinx",
+    "first": "human",
+    "second": "lion"
+  },
+  {
+    "result": "spider",
+    "first": "wild animal",
+    "second": "thread"
+  },
+  {
+    "result": "sprinkles",
+    "first": "sugar",
+    "second": "confetti"
+  },
+  {
+    "result": "squirrel",
+    "first": "mouse",
+    "second": "tree"
+  },
+  {
+    "result": "star",
+    "first": "sky",
+    "second": "night"
+  },
+  {
+    "result": "star",
+    "first": "night",
+    "second": "telescope"
+  },
+  {
+    "result": "starfish",
+    "first": "fish",
+    "second": "star"
+  },
+  {
+    "result": "starfish",
+    "first": "sea",
+    "second": "star"
+  },
+  {
+    "result": "starfish",
+    "first": "ocean",
+    "second": "star"
+  },
+  {
+    "result": "statue",
+    "first": "stone",
+    "second": "tool"
+  },
+  {
+    "result": "statue",
+    "first": "human",
+    "second": "medusa"
+  },
+  {
+    "result": "steak",
+    "first": "meat",
+    "second": "bbq"
+  },
+  {
+    "result": "steak",
+    "first": "fire",
+    "second": "cow"
+  },
+  {
+    "result": "steam",
+    "first": "water",
+    "second": "fire"
+  },
+  {
+    "result": "steam",
+    "first": "water",
+    "second": "energy"
+  },
+  {
+    "result": "steam engine",
+    "first": "boiler",
+    "second": "tool"
+  },
+  {
+    "result": "steam engine",
+    "first": "boiler",
+    "second": "wheel"
+  },
+  {
+    "result": "steamboat",
+    "first": "steam engine",
+    "second": "water"
+  },
+  {
+    "result": "steamboat",
+    "first": "steam engine",
+    "second": "boat"
+  },
+  {
+    "result": "steel",
+    "first": "metal",
+    "second": "coal"
+  },
+  {
+    "result": "steel wool",
+    "first": "steel",
+    "second": "wool"
+  },
+  {
+    "result": "steel wool",
+    "first": "wire",
+    "second": "wool"
+  },
+  {
+    "result": "stethoscope",
+    "first": "tool",
+    "second": "doctor"
+  },
+  {
+    "result": "stone",
+    "first": "air",
+    "second": "lava"
+  },
+  {
+    "result": "storm",
+    "first": "energy",
+    "second": "cloud"
+  },
+  {
+    "result": "storm",
+    "first": "cloud",
+    "second": "electricity"
+  },
+  {
+    "result": "story",
+    "first": "human",
+    "second": "campfire"
+  },
+  {
+    "result": "sugar",
+    "first": "fruit",
+    "second": "energy"
+  },
+  {
+    "result": "sugar",
+    "first": "juice",
+    "second": "fire"
+  },
+  {
+    "result": "sugar",
+    "first": "juice",
+    "second": "energy"
+  },
+  {
+    "result": "sun",
+    "first": "fire",
+    "second": "sky"
+  },
+  {
+    "result": "sundial",
+    "first": "clock",
+    "second": "sun"
+  },
+  {
+    "result": "sunflower",
+    "first": "plant",
+    "second": "sun"
+  },
+  {
+    "result": "sunflower",
+    "first": "flower",
+    "second": "sun"
+  },
+  {
+    "result": "sunglasses",
+    "first": "sun",
+    "second": "glasses"
+  },
+  {
+    "result": "sunglasses",
+    "first": "beach",
+    "second": "glasses"
+  },
+  {
+    "result": "super nova",
+    "first": "explosion",
+    "second": "star"
+  },
+  {
+    "result": "surfer",
+    "first": "human",
+    "second": "wave"
+  },
+  {
+    "result": "sushi",
+    "first": "fish",
+    "second": "seaweed"
+  },
+  {
+    "result": "sushi",
+    "first": "caviar",
+    "second": "seaweed"
+  },
+  {
+    "result": "swamp",
+    "first": "mud",
+    "second": "plant"
+  },
+  {
+    "result": "swamp",
+    "first": "mud",
+    "second": "grass"
+  },
+  {
+    "result": "sweater",
+    "first": "wool",
+    "second": "tool"
+  },
+  {
+    "result": "sweater",
+    "first": "human",
+    "second": "wool"
+  },
+  {
+    "result": "swim goggles",
+    "first": "glasses",
+    "second": "water"
+  },
+  {
+    "result": "swimmer",
+    "first": "human",
+    "second": "swim goggles"
+  },
+  {
+    "result": "sword",
+    "first": "blade",
+    "second": "metal"
+  },
+  {
+    "result": "sword",
+    "first": "blade",
+    "second": "steel"
+  },
+  {
+    "result": "swordfish",
+    "first": "fish",
+    "second": "sword"
+  },
+  {
+    "result": "tank",
+    "first": "car",
+    "second": "armor"
+  },
+  {
+    "result": "tank",
+    "first": "car",
+    "second": "gun"
+  },
+  {
+    "result": "taser",
+    "first": "gun",
+    "second": "electricity"
+  },
+  {
+    "result": "tea",
+    "first": "water",
+    "second": "leaf"
+  },
+  {
+    "result": "telescope",
+    "first": "glass",
+    "second": "sky"
+  },
+  {
+    "result": "telescope",
+    "first": "glass",
+    "second": "star"
+  },
+  {
+    "result": "telescope",
+    "first": "glass",
+    "second": "space"
+  },
+  {
+    "result": "tent",
+    "first": "wood",
+    "second": "fabric"
+  },
+  {
+    "result": "tent",
+    "first": "house",
+    "second": "fabric"
+  },
+  {
+    "result": "thread",
+    "first": "cotton",
+    "second": "tool"
+  },
+  {
+    "result": "thread",
+    "first": "wheel",
+    "second": "wool"
+  },
+  {
+    "result": "tide",
+    "first": "sea",
+    "second": "moon"
+  },
+  {
+    "result": "tide",
+    "first": "ocean",
+    "second": "moon"
+  },
+  {
+    "result": "time",
+    "first": "sand",
+    "second": "glass"
+  },
+  {
+    "result": "titanic",
+    "first": "steamboat",
+    "second": "iceberg"
+  },
+  {
+    "result": "toast",
+    "first": "sandwich",
+    "second": "fire"
+  },
+  {
+    "result": "toast",
+    "first": "bread",
+    "second": "fire"
+  },
+  {
+    "result": "tobacco",
+    "first": "plant",
+    "second": "fire"
+  },
+  {
+    "result": "tool",
+    "first": "metal",
+    "second": "human"
+  },
+  {
+    "result": "toucan",
+    "first": "bird",
+    "second": "rainbow"
+  },
+  {
+    "result": "tractor",
+    "first": "farmer",
+    "second": "car"
+  },
+  {
+    "result": "tractor",
+    "first": "field",
+    "second": "car"
+  },
+  {
+    "result": "train",
+    "first": "steam engine",
+    "second": "steel"
+  },
+  {
+    "result": "train",
+    "first": "steam engine",
+    "second": "metal"
+  },
+  {
+    "result": "train",
+    "first": "steam engine",
+    "second": "wheel"
+  },
+  {
+    "result": "train",
+    "first": "steam engine",
+    "second": "wagon"
+  },
+  {
+    "result": "treasure",
+    "first": "pirate",
+    "second": "treasure map"
+  },
+  {
+    "result": "treasure map",
+    "first": "pirate",
+    "second": "map"
+  },
+  {
+    "result": "tree",
+    "first": "plant",
+    "second": "time"
+  },
+  {
+    "result": "treehouse",
+    "first": "tree",
+    "second": "house"
+  },
+  {
+    "result": "trojan horse",
+    "first": "horse",
+    "second": "wood"
+  },
+  {
+    "result": "tsunami",
+    "first": "ocean",
+    "second": "earthquake"
+  },
+  {
+    "result": "tsunami",
+    "first": "sea",
+    "second": "earthquake"
+  },
+  {
+    "result": "tunnel",
+    "first": "engineer",
+    "second": "mountain"
+  },
+  {
+    "result": "turtle",
+    "first": "egg",
+    "second": "sand"
+  },
+  {
+    "result": "twilight",
+    "first": "day",
+    "second": "night"
+  },
+  {
+    "result": "tyrannosaurus rex",
+    "first": "meat",
+    "second": "dinosaur"
+  },
+  {
+    "result": "ufo",
+    "first": "rocket",
+    "second": "alien"
+  },
+  {
+    "result": "ufo",
+    "first": "airplane",
+    "second": "alien"
+  },
+  {
+    "result": "umbrella",
+    "first": "tool",
+    "second": "rain"
+  },
+  {
+    "result": "umbrella",
+    "first": "rain",
+    "second": "fabric"
+  },
+  {
+    "result": "unicorn",
+    "first": "rainbow",
+    "second": "horse"
+  },
+  {
+    "result": "unicorn",
+    "first": "rainbow",
+    "second": "life"
+  },
+  {
+    "result": "unicorn",
+    "first": "double rainbow!",
+    "second": "horse"
+  },
+  {
+    "result": "unicorn",
+    "first": "double rainbow!",
+    "second": "life"
+  },
+  {
+    "result": "vacuum cleaner",
+    "first": "electricity",
+    "second": "broom"
+  },
+  {
+    "result": "vampire",
+    "first": "human",
+    "second": "blood"
+  },
+  {
+    "result": "vampire",
+    "first": "human",
+    "second": "vampire"
+  },
+  {
+    "result": "vampire",
+    "first": "human",
+    "second": "vampire"
+  },
+  {
+    "result": "vase",
+    "first": "plant",
+    "second": "pottery"
+  },
+  {
+    "result": "vase",
+    "first": "pottery",
+    "second": "flower"
+  },
+  {
+    "result": "vegetable",
+    "first": "field",
+    "second": "fruit"
+  },
+  {
+    "result": "village",
+    "first": "house",
+    "second": "house"
+  },
+  {
+    "result": "volcano",
+    "first": "lava",
+    "second": "earth"
+  },
+  {
+    "result": "volcano",
+    "first": "lava",
+    "second": "mountain"
+  },
+  {
+    "result": "volcano",
+    "first": "fire",
+    "second": "mountain"
+  },
+  {
+    "result": "vulture",
+    "first": "bird",
+    "second": "corpse"
+  },
+  {
+    "result": "wagon",
+    "first": "cart",
+    "second": "horse"
+  },
+  {
+    "result": "wall",
+    "first": "brick",
+    "second": "brick"
+  },
+  {
+    "result": "wand",
+    "first": "wizard",
+    "second": "wood"
+  },
+  {
+    "result": "warrior",
+    "first": "sword",
+    "second": "human"
+  },
+  {
+    "result": "watch",
+    "first": "human",
+    "second": "clock"
+  },
+  {
+    "result": "water gun",
+    "first": "water",
+    "second": "gun"
+  },
+  {
+    "result": "water lily",
+    "first": "flower",
+    "second": "pond"
+  },
+  {
+    "result": "water pipe",
+    "first": "water",
+    "second": "pipe"
+  },
+  {
+    "result": "waterfall",
+    "first": "mountain",
+    "second": "river"
+  },
+  {
+    "result": "wave",
+    "first": "sea",
+    "second": "wind"
+  },
+  {
+    "result": "wave",
+    "first": "ocean",
+    "second": "wind"
+  },
+  {
+    "result": "wax",
+    "first": "bee",
+    "second": "beehive"
+  },
+  {
+    "result": "web",
+    "first": "spider",
+    "second": "thread"
+  },
+  {
+    "result": "werewolf",
+    "first": "wolf",
+    "second": "human"
+  },
+  {
+    "result": "werewolf",
+    "first": "werewolf",
+    "second": "human"
+  },
+  {
+    "result": "werewolf",
+    "first": "werewolf",
+    "second": "human"
+  },
+  {
+    "result": "wheat",
+    "first": "field",
+    "second": "farmer"
+  },
+  {
+    "result": "wheat",
+    "first": "plant",
+    "second": "farmer"
+  },
+  {
+    "result": "wheel",
+    "first": "tool",
+    "second": "wood"
+  },
+  {
+    "result": "wild animal",
+    "first": "forest",
+    "second": "life"
+  },
+  {
+    "result": "wild boar",
+    "first": "pig",
+    "second": "wild animal"
+  },
+  {
+    "result": "wild boar",
+    "first": "pig",
+    "second": "forest"
+  },
+  {
+    "result": "wind",
+    "first": "pressure",
+    "second": "air"
+  },
+  {
+    "result": "wind",
+    "first": "air",
+    "second": "energy"
+  },
+  {
+    "result": "wind turbine",
+    "first": "windmill",
+    "second": "electricity"
+  },
+  {
+    "result": "windmill",
+    "first": "house",
+    "second": "wind"
+  },
+  {
+    "result": "windmill",
+    "first": "wheel",
+    "second": "wind"
+  },
+  {
+    "result": "wine",
+    "first": "fruit",
+    "second": "alcohol"
+  },
+  {
+    "result": "wire",
+    "first": "electricity",
+    "second": "metal"
+  },
+  {
+    "result": "witch",
+    "first": "wizard",
+    "second": "broom"
+  },
+  {
+    "result": "witch",
+    "first": "human",
+    "second": "broom"
+  },
+  {
+    "result": "wizard",
+    "first": "human",
+    "second": "energy"
+  },
+  {
+    "result": "wolf",
+    "first": "wild animal",
+    "second": "dog"
+  },
+  {
+    "result": "wolf",
+    "first": "wild animal",
+    "second": "moon"
+  },
+  {
+    "result": "wolf",
+    "first": "dog",
+    "second": "forest"
+  },
+  {
+    "result": "wood",
+    "first": "tool",
+    "second": "tree"
+  },
+  {
+    "result": "woodpecker",
+    "first": "bird",
+    "second": "wood"
+  },
+  {
+    "result": "wool",
+    "first": "sheep",
+    "second": "tool"
+  },
+  {
+    "result": "wool",
+    "first": "scissors",
+    "second": "sheep"
+  },
+  {
+    "result": "wrapping paper",
+    "first": "gift",
+    "second": "paper"
+  },
+  {
+    "result": "yoda",
+    "first": "jedi",
+    "second": "swamp"
+  },
+  {
+    "result": "yogurt",
+    "first": "milk",
+    "second": "bacteria"
+  },
+  {
+    "result": "zombie",
+    "first": "corpse",
+    "second": "life"
+  },
+  {
+    "result": "zombie",
+    "first": "human",
+    "second": "zombie"
+  },
+  {
+    "result": "zombie",
+    "first": "human",
+    "second": "zombie"
+  }
+]
